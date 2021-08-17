@@ -1,0 +1,6 @@
+#. Admin menu
+msgid "Appointments"
+msgstr "Appointments"
+
+msgid "Consulting Appointments"
+msgstr "Consulting Appointments"

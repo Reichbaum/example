@@ -1,0 +1,28 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+#appointments table {
+  margin: 0;
+  width: 100%;
+  border: 1px solid #ddd;
+  border-spacing: 0;
+  background-color: #f9f9f9;
+  
+}
+
+#appointments p {
+  margin: 0;
+}
+
+#consulting_form .form-control {
+  width: 100%;
+}
+
+#consulting_form .settings-block {
+  margin-top: 20px;
+}
+
+#calendar .ui-state-busy a {background:#e6e6e6 !important;}
+#calendar .ui-state-free a {background:none !important;}
